@@ -2,3 +2,4 @@
 .idea/
 .idea
 gs-mysql-orders-database.iml
+target/
