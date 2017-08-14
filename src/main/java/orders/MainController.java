@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Controller
-@RequestMapping(path="/rewind")
+@RequestMapping(path="/orders")
 public class MainController {
     @Autowired
     private DirectionRepository directionRepository;
